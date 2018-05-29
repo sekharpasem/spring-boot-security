@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: spasem
+Build-Jdk: 9
+Implementation-Title: jwt-spring-security-demo
+Implementation-Version: 0.2.0
+Implementation-Vendor-Id: org.zerhusen
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jwt-spring-security-demo
+Created-By: Maven Integration for Eclipse
+
